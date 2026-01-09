@@ -1,5 +1,6 @@
 {
-  "licenseEnabled": false,
-  "gamepassId": 166416206,
+  "licenseEnabled": true,
+  "gamepassId": 12345678,
   "discordWebhook": "https://discord.com/api/webhooks/XXXX/XXXX"
 }
+
